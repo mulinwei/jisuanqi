@@ -1,0 +1,109 @@
+body{
+	margin: 0;
+	font-weight: bold;
+	background: url(../img/shuxue.jpg);
+}
+.clear{
+	clear:both;
+}
+/*打字游戏---------------------------------*/
+/*.screen{
+	width: 1200px;
+	height: 500px;
+	border: 1px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 10px black;
+	margin: 20px auto;
+	position: relative;
+	overflow: hidden;
+	background-color:white;
+}
+.head{
+	width: 160px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: red;
+	position: absolute;
+	font-size: 20px;
+	background-color: black;
+	top: 20px;
+	left: -35px;
+	border-radius: 10px;
+	box-shadow:0 0 15px black;
+	-webkit-transform:rotateZ(-45deg);
+}*/
+	.hwaikuang{
+	width: 700px;
+	height: 420px;
+	/*border: 1px solid black;*/
+	margin: 20px auto;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px black;
+	background-color: #999999;
+	/*padding: 0 10px 10px 10px;*/
+
+}
+.hhead{
+	width: 100%;
+	height: 25px;
+	background-color: black;
+	margin-bottom: 15px;
+}
+.hpingmu{
+	width: 660px;
+	height: 70px;
+	border: 2px solid black;
+	border-radius: 10px;
+	box-shadow: 0 0 5px black inset; 
+	margin: 0 auto;
+	margin-bottom: 15px;
+	background-color: #ddd;
+	font-size: 3em;
+	line-height: 70px;
+	text-align: right;
+}
+.hjianpan{
+	width: 660px;
+	height: 280px;
+	/*border:1px solid black;*/
+	margin: 0 auto;
+	text-align: center;
+	line-height: 40px;
+
+}
+.hjian{
+	width: 74px;
+	height: 40px;
+	/*border: 1px solid black;*/
+	margin: 5px 4px 0  4px;
+	float: left;
+	border-radius: 5px;
+	box-shadow: 0px 2px 5px black;
+	background: white;
+	font-weight: bolder;
+	font-size: 15px;
+	cursor: pointer;
+}
+.hjian:hover{
+	background-color: red;
+}
+.hdeng{
+	height: 86px;
+	line-height: 86px;
+	float: right;
+	background-color:#f60;
+	color: white;
+	margin-right: 7px;
+}
+.hzero{
+	width: 156px;
+}
+.hhui{
+	background-color:#666666;
+	color: white;
+}
+.hhei{
+	background-color: #333333;
+	color: white;
+}
